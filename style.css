@@ -1,0 +1,124 @@
+h1
+{
+    text-align: center;
+}
+header
+{
+    background-color: #316DC3
+}
+header ul
+{
+    text-align: center;
+    list-style: none;
+}
+header ul li
+{
+    display: inline-block;
+    margin-right: 6px;
+    padding: 0.8em 0.6em 0.6em 0.6em;
+}
+header ul li a
+{
+    color: white;
+}
+header ol 
+{
+    text-align: center;
+    list-style: none;
+}
+header ol li
+{
+    display: inline-block;
+    padding: 1em 0.6em 0.6em 0.6em;
+}
+header ol li a
+{
+    text-align: center;
+    background-color: white;
+    color:#427900;
+    padding: 5px;
+}
+.header_div2
+{
+    text-align: center;
+    padding: 0.8em;
+    color: white;
+}
+nav
+{
+    margin-top: 1.5em;
+}
+nav img
+{
+    text-align: center;
+}
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+nav ul
+{
+    list-style: none;
+}
+nav ul li
+{
+    display: inline-block;
+}
+nav div
+{
+    display: inline-block;
+}
+nav div ul li
+{
+    margin-bottom: 6px;
+}
+button
+{
+    margin-left: 3px;
+    background-color: white;
+}
+.special 
+{
+    list-style: none;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+.section_01
+{
+    display: inline-block;
+    text-align: center;
+    margin-top: 4em;
+    width: 100%;
+    background-color: blue;
+    padding: 4em;
+}
+body
+{
+    background-color: #F7F8FA;
+}
+.cl5
+{
+    box-shadow: 0px 0px 10px rgb(95, 94, 94);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+hr
+{
+	width: 10%;
+	color: green;
+	border: solid;
+	margin-left: 40em;
+}
+footer
+{
+	margin-top: 8em;
+	background-color: #25252E;
+}
+footer ul
+{
+    list-style: none;
+}
